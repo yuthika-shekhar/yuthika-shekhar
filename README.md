@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 # To show github stats
 [![Yuthika Shekhar's github stats](https://github-readme-stats.vercel.app/api?username=yuthika-shekhar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,4 +25,6 @@ Here are some ideas to get you started:
 # Emohi Cheatsheet (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 # Markdown language guide(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
+
 
