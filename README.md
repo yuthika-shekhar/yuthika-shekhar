@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently pursuing Master's in Data Science from University of Rochester, NY
+- 🔭 Currently Graduate Data Science student @University of Rochester, NY
 - 📫 How to reach me: https://www.linkedin.com/in/yuthikashekhar/
+- ⚡ Fun fact: Love to travel and draw mandalas
 <!--- 💬 Link to my Portfolio: 
 - 😄 Pronouns: She/Her -->
-- ⚡ Fun fact: Love to travel and draw mandalas
+
 
 <!--# To show github stats -->
 [![Yuthika Shekhar's github stats](https://github-readme-stats.vercel.app/api?username=yuthika-shekhar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
