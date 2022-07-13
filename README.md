@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently pursuing Master's in Data Science from University of Rochester, NY
 - 📫 How to reach me: https://www.linkedin.com/in/yuthikashekhar/
-- 💬 Link to my Portfolio: 
-- 😄 Pronouns: She/Her
+<!--- 💬 Link to my Portfolio: 
+- 😄 Pronouns: She/Her -->
 - ⚡ Fun fact: Love to travel and draw mandalas
 
 <!--# To show github stats -->
